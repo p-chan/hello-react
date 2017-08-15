@@ -6,7 +6,7 @@
   "author": "P-Chan <hello@0x50.io> (https://0x50.io/)",
   "scripts": {
     "build": "webpack",
-    "lint": "eslint ./src"
+    "lint": "eslint ."
   },
   "dependencies": {
     "react": "15.6.1",
